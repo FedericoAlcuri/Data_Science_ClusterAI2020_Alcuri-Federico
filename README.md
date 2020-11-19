@@ -12,3 +12,6 @@ Datasets necesarios para la correcta ejecución de los mismos
 Poster
 Informe
 Importante: Debe ejecutarse primero el notebook clusterai_federico_girola_EDA, ya que exporta un archivo xlsx que se usará en los modelos de ML
+
+Link al video de presentacion 
+https://youtu.be/Fd6ut9H2CTQ
